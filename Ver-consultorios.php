@@ -43,7 +43,7 @@ if($_SESSION["rol"] != "Paciente"){
 						 <div class="small-box bg-aqua">
 							<div class="inner">
 							  
-								<h3>'.$value["nombre"].'</h3>;
+								<h3>'.$value["nombre"].'</h3>';
 
 							$columna = "id_consultorio";
 							$valor = $value["id"];
