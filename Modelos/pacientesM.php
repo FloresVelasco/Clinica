@@ -133,7 +133,7 @@ class PacientesM extends ConexionBD{
 	}
 
 
-/* 
+
 	//Actualizar perfil del Paciente
 	static public function ActualizarPerfilPacienteM($tablaBD, $datosC){
 
@@ -155,6 +155,6 @@ class PacientesM extends ConexionBD{
 		$pdo = null;
 
 	}
- */
+ 
 
 }
